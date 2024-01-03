@@ -63,7 +63,7 @@
     "unplugin-icons": "^0.16.5",
     "unplugin-vue-components": "^0.25.1",
     "unplugin-vue-markdown": "^0.24.2",
-    "vite": "^4.4.9",
+    "vite": "^4.4.12",
     "vite-plugin-inspect": "^0.7.38",
     "vite-plugin-pages": "^0.31.0",
     "vite-ssg": "^0.23.1",
