@@ -39,7 +39,7 @@ const { y: scroll } = useWindowScroll()
           <div i-ri-lightbulb-line class="md:hidden" />
         </RouterLink>
         <RouterLink to="/talks" class="lt-md:hidden" title="Talks">
-         Spaces and Talks
+         Spaces & Talks
         </RouterLink>
         <!-- <RouterLink to="/podcasts" class="lt-md:hidden" title="Podcasts">
           Podcasts

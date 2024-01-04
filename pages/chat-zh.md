@@ -4,7 +4,7 @@ display: 聊聊天！
 image: https://antfu.me/og-chat.png
 ---
 
-[English](/chat)
+<!-- [English](/chat)
 
 我非常幸运自己能够参与到开源社区中，做出对他人有益的工具和内容，获得他人的感谢。我享受参与开源工作，和开源社区一起工作和学习。我发现到很多人也像我一样，希望为开源项目做出贡献，但却不确定如何开始。一路走来，我也曾经有过这样或那样的困惑。
 
@@ -28,4 +28,4 @@ image: https://antfu.me/og-chat.png
 
 ## Credits
 
-此计划深受 [Daniel Roe 的 Open invitation](https://roe.dev/blog/open-invitation) 的启发与鼓舞。
+此计划深受 [Daniel Roe 的 Open invitation](https://roe.dev/blog/open-invitation) 的启发与鼓舞。 -->

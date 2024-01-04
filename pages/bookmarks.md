@@ -1,9 +1,9 @@
 ---
-title: Bookmarks - Anthony Fu
+title: Bookmarks - Geller Offiong
 display: Bookmarks
 subtitle: Some of my favorite websites/tools with excellent design and UX that I highly recommend
 ---
-
+<!-- 
 ### Design
 
 - [Font Playground](https://play.typedetail.com/)
@@ -58,4 +58,4 @@ subtitle: Some of my favorite websites/tools with excellent design and UX that I
 
 ### Diagram
 
-- [Isoflow](https://isoflow.io/)
+- [Isoflow](https://isoflow.io/) -->
