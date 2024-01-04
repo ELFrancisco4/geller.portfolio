@@ -20,16 +20,16 @@ const route = useRoute()
         Blog
       </RouterLink>
       <RouterLink to="/talks" class="!border-none" :class="route.path === '/talks' ? activeStyle : inactiveStyle">
-        Talks
+        Space and Talks
       </RouterLink>
       <RouterLink to="/podcasts" class="!border-none" :class="route.path === '/podcasts' ? activeStyle : inactiveStyle">
-        Podcasts
+        Projects
       </RouterLink>
       <RouterLink to="/streams" class="!border-none" :class="route.path === '/streams' ? activeStyle : inactiveStyle">
-        Streams
+        Code snippets
       </RouterLink>
       <RouterLink to="/notes" class="!border-none" :class="route.path === '/notes' ? activeStyle : inactiveStyle">
-        Notes
+        Streams
       </RouterLink>
     </div>
   </div>

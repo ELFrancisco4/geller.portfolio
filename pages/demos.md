@@ -1,6 +1,6 @@
 ---
-title: Demos - Anthony Fu
-display: Demos
+title: Showcases - Geller Offiong
+display: Showcases
 subtitle: Demonstrations for projects I am working on from Tweets
 description: Demonstrations for projects I am working on from Tweets
 ---

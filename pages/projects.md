@@ -9,12 +9,12 @@ projects:
     - name: 'Tailz-Protocol'
       link: 'https://github.com/Geller99/Tailz-Protocol'
       desc: 'The official Repo of Tail-talk, a social media platform for pet lovers...'
-      # icon: 'i-logos--icon saturate-0'
+      icon: 'i-logos-nuxt-icon saturate-0'
 
     - name: 'Sexy-UI'
       link: 'https://github.com/YouGoDevs/Sexy-UI'
       desc: 'Sexy-UI simplifies the first step in your production process by providing super-accessible plug and play UI components'
-      # icon: 'i-logos--icon saturate-0'
+      icon: 'i-logos-nuxt-icon saturate-0'
       
   Cloud Ecosystem:
     - name: '1990 Script'
